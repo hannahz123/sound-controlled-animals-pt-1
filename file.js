@@ -1,0 +1,1 @@
+https://teachablemachine.withgoogle.com/models/HAio1m73Z/
